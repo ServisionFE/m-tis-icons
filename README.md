@@ -1,2 +1,2 @@
 # m-tis-icons
-mobile
+mobile icons
