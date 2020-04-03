@@ -2,7 +2,7 @@
   "name": "m-tis-icons",
   "version": "0.0.1",
   "description": "mobile icons",
-  "main": "index.js",
+  "main": "./lib/iconfont.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
