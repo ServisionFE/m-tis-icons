@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "13918388",
+      "name": "prev",
+      "font_class": "prev",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
       "icon_id": "13898033",
       "name": "news1",
       "font_class": "news1",
@@ -214,13 +221,6 @@
       "font_class": "submission",
       "unicode": "e737",
       "unicode_decimal": 59191
-    },
-    {
-      "icon_id": "13897894",
-      "name": "news",
-      "font_class": "news",
-      "unicode": "e738",
-      "unicode_decimal": 59192
     },
     {
       "icon_id": "13897895",
