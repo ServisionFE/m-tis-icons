@@ -6,6 +6,76 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "13949188",
+      "name": "user1",
+      "font_class": "user",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "13949150",
+      "name": "calendar",
+      "font_class": "calendar",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "13949151",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "13949152",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "13949153",
+      "name": "flashlight",
+      "font_class": "flashlight",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "13949154",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "13949155",
+      "name": "picture",
+      "font_class": "picture",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "13949156",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "13949157",
+      "name": "rights",
+      "font_class": "rights",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "13949158",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
       "icon_id": "13918388",
       "name": "prev",
       "font_class": "prev",
@@ -67,13 +137,6 @@
       "font_class": "arrow-up",
       "unicode": "e721",
       "unicode_decimal": 59169
-    },
-    {
-      "icon_id": "13897871",
-      "name": "user1",
-      "font_class": "user",
-      "unicode": "e722",
-      "unicode_decimal": 59170
     },
     {
       "icon_id": "13897872",
@@ -228,13 +291,6 @@
       "font_class": "tool",
       "unicode": "e739",
       "unicode_decimal": 59193
-    },
-    {
-      "icon_id": "13897896",
-      "name": "calendar",
-      "font_class": "calendar",
-      "unicode": "e73a",
-      "unicode_decimal": 59194
     },
     {
       "icon_id": "13897897",
