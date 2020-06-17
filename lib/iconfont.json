@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "15383867",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "15205345",
+      "name": "fabulous",
+      "font_class": "fabulous",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "15205346",
+      "name": "no fabulous",
+      "font_class": "nofabulous",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
       "icon_id": "14629831",
       "name": "voice",
       "font_class": "voice",
