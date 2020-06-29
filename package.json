@@ -1,6 +1,6 @@
 {
   "name": "m-tis-icons",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "mobile icons",
   "main": "./lib/iconfont.js",
   "scripts": {

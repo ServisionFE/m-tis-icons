@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "15604092",
+      "name": "examine",
+      "font_class": "examine",
+      "unicode": "e74e",
+      "unicode_decimal": 59214
+    },
+    {
+      "icon_id": "15604093",
+      "name": "Second network",
+      "font_class": "second-network",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
       "icon_id": "15383867",
       "name": "eye",
       "font_class": "eye",
