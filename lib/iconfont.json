@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "16301353",
+      "name": "telephone",
+      "font_class": "telephone",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
       "icon_id": "15604092",
       "name": "examine",
       "font_class": "examine",
