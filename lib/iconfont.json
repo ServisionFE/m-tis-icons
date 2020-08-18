@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "16612098",
+      "name": "active service",
+      "font_class": "activeservice",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "16612099",
+      "name": "pre feedback",
+      "font_class": "prefeedback",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
       "icon_id": "16301353",
       "name": "telephone",
       "font_class": "telephone",
