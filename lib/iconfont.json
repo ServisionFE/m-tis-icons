@@ -6,6 +6,69 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "16831092",
+      "name": "d loop",
+      "font_class": "d-loop",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "16831093",
+      "name": "d phenomena",
+      "font_class": "d-phenomena",
+      "unicode": "e754",
+      "unicode_decimal": 59220
+    },
+    {
+      "icon_id": "16831094",
+      "name": "d cause",
+      "font_class": "d-cause",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "16831095",
+      "name": "spare part",
+      "font_class": "d-spare-part",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "16831096",
+      "name": "d plus",
+      "font_class": "d-plus",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "16831097",
+      "name": "d delete",
+      "font_class": "d-delete",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "16831098",
+      "name": "d dtc",
+      "font_class": "d-dtc",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "16831099",
+      "name": "d information",
+      "font_class": "d-information",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "16831102",
+      "name": "d next",
+      "font_class": "d-next",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
       "icon_id": "16612098",
       "name": "active service",
       "font_class": "activeservice",
