@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "17026614",
+      "name": "d-battery",
+      "font_class": "d-battery",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "17026615",
+      "name": "d-call",
+      "font_class": "d-call",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "17026616",
+      "name": "d-calendar",
+      "font_class": "d-calendar",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
       "icon_id": "16831092",
       "name": "d loop",
       "font_class": "d-loop",
