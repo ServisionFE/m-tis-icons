@@ -6,6 +6,34 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "17288856",
+      "name": "d cause-2",
+      "font_class": "d-cause-2",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "17287087",
+      "name": "d dtc-2",
+      "font_class": "d-dtc-2",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "17287088",
+      "name": "d phenomena-2",
+      "font_class": "d-phenomena-2",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "17287089",
+      "name": "spare part-2",
+      "font_class": "d-sparepart-2",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    },
+    {
       "icon_id": "17026614",
       "name": "d-battery",
       "font_class": "d-battery",
