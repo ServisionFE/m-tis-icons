@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "17731084",
+      "name": "manual data",
+      "font_class": "manual-data",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "17731085",
+      "name": "epc",
+      "font_class": "epc",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
       "icon_id": "17288856",
       "name": "d cause-2",
       "font_class": "d-cause-2",
